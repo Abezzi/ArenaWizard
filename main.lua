@@ -1,0 +1,1 @@
+message('Welcome - Arena Wizard')

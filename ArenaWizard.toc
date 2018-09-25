@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: Arena Wizard
+## Author: Carepicha
+## Version: 0.1
+
+main.lua

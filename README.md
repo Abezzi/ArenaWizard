@@ -1,12 +1,12 @@
 # ArenaWizard
-WoW Addon for arena matches
+## WoW Addon for arena matches
 
-DONE:
+### DONE:
 
--...
+- ...
 
-TODO:
+### TODO:
 
--Alert enemy defensive cooldown when use
--Count amount of CC's and interrupts spells available
--...
+- Alert enemy defensive cooldown when use
+- Count amount of CC's and interrupts spells available
+- ...
